@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(212, 169, 212, 0.24);
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Header */
+header{
+    margin: 0px;
+    background-color: #e5e5e5;
+    text-align: center;
+    background-image:url(/img/Fondo.jpg);
+background-size: cover;
+background-position: 10px;
+}
+
+
+header img{
+    width: 150px;
+    border-radius: 50%;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 3px;
+    background-color: #c387cf;
+    position: relative;
+    margin-top: 25px;
+   
+}
+
+
+
+
+h1, h2{
+    background-color: #944a9b;
+    opacity: 0.9;
+    color:#f2eaf3;
+    text-transform: uppercase;
+    padding: 8px; 
+    letter-spacing:5px; 
+}
+h1{
+    font-size: 35px;
+}
+h2 {
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+  
+}
+nav ul li{
+    display: inline-block;
+}
+/* Main */
+.container{
+    margin: 60px auto;
+    max-width: 70%;
+} 
+ h2{
+   font-size: 20px;
+ }
+ span{
+     font-weight: 0;
+ }
+ .personal span{
+     font-style: italic;
+ }
+ dl{
+   margin-left: 40px;
+ }
+ dd{
+     margin-left: 80px;
+ }
+ /* Footer */
+ footer{
+     background-color: #503777;
+     color: #fff; 
+     text-align: center;
+     letter-spacing: 5px;
+     text-transform: uppercase;
+ }
+ footer a{
+   color: #fff; 
+ }

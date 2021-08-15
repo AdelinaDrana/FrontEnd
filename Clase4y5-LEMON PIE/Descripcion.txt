@@ -1,0 +1,4 @@
+Clase 4, se escribio el titulo y el texto de la receta.
+https://www.figma.com/file/VvU8uV8583MiWfeMTmw4Cy/Clase-04---Introducci%C3%B3n-a-HTML?node-id=0%3A1
+Clase 5, se agrego imagenes.
+https://www.figma.com/file/E8Orh57Weqm2a4UuU4nmdT/Clase-05---Etiquetas?node-id=0%3A1
